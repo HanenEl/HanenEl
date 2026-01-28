@@ -1,17 +1,22 @@
-# Hi I'm Haneen 👋
+# Haneen El-ladam
 
-<a href="https://www.linkedin.com/in/haneen-el-ladam-4790b7320/" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/LinkedIn-Haneen%20El%20Ladam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+**Junior Data Scientist | Machine Learning Enthusiast**  
 
-<a href="https://www.kaggle.com/haneenelladam" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Kaggle-haneenelladam-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-<a href="mailto:haneenelladam@gmail.com" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Gmail-haneenelladam-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/haneen-el-ladam-4790b7320/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:haneenelladam@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-Contact-c14438?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/haneenelladam" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Kaggle-Portfolio-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+  </a>
+</p>
 
+**Aspiring Data Scientist** with a keen interest in everything related to data.
 
+I have a solid foundation in **analytical thinking** and **programming**. I enjoy exploring datasets, uncovering meaningful insights, and building predictive models that support smarter decision-making. I’m constantly developing my skills and expanding my knowledge across the **data science ecosystem**, aiming to translate data into impactful, actionable outcomes.
 
 
 Welcome to my profile! I'm a student, aspiring [writer](https://medium.com/@_jessicalim), part-time coder and full-time adventure seeker. I am current interning @Wealthsimple, and have previously PM'd @Autodesk, SWE'd @Microsoft, and UX&D consulted @Deloitte. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/jlim/)!
