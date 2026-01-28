@@ -44,21 +44,13 @@ I am open to:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![OOP](https://img.shields.io/badge/OOP-6A1B9A?style=for-the-badge)
-![Problem_Solving](https://img.shields.io/badge/Problem_Solving-FF6F00?style=for-the-badge)
-![Mathematical_Modeling](https://img.shields.io/badge/Mathematical_Modeling-00897B?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-00ACC1?style=for-the-badge)
 
 ### 📊 Data Skills
 ![Data_Cleaning](https://img.shields.io/badge/Data_Cleaning-FF6F00?style=for-the-badge)
 ![Data_Manipulation](https://img.shields.io/badge/Data_Manipulation-1976D2?style=for-the-badge)
 ![Feature_Engineering](https://img.shields.io/badge/Feature_Engineering-8E24AA?style=for-the-badge)
-![Feature_Selection](https://img.shields.io/badge/Feature_Selection-0097A7?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-673AB7?style=for-the-badge)
 ![EDA](https://img.shields.io/badge/EDA-673AB7?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FF5722?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4CAF50?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-1976D2?style=for-the-badge)
-![Dash](https://img.shields.io/badge/Dash-0A192F?style=for-the-badge)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
 ![Power_BI](https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
@@ -70,6 +62,5 @@ I am open to:
 ![Predictive_Modeling](https://img.shields.io/badge/Predictive_Modeling-1976D2?style=for-the-badge)
 ![MLOps](https://img.shields.io/badge/MLOps-673AB7?style=for-the-badge)
 ![Deployment](https://img.shields.io/badge/Deployment-00ACC1?style=for-the-badge)
-
 
 ---
