@@ -15,9 +15,11 @@
 </p>
 
 ---
-**Aspiring Data Scientist** with a keen interest in everything related to data.
+## About Me
 
-I have a solid foundation in **analytical thinking** and **programming**. I enjoy exploring datasets, uncovering meaningful insights, and building predictive models that support smarter decision-making. I’m constantly developing my skills and expanding my knowledge across the **data science ecosystem**, aiming to translate data into impactful, actionable outcomes.
+I have a strong foundation in **analytical thinking** and **programming skills**.  
+I enjoy **exploring datasets**, **extracting meaningful insights**, and **building predictive models** that support smarter decision-making.  
+Continuously expanding my expertise across the **data science ecosystem** to turn data into **impactful, actionable outcomes**.
 
 ---
 
