@@ -52,13 +52,14 @@ Continuously expanding my expertise across the **data science ecosystem** to tur
 <table align="center">
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanenEl&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanenEl&layout=compact&theme=github_dark" />
 </td>
 
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HanenEl&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HanenEl&theme=github_dark" />
 </td>
 </tr>
 </table>
+>
 
 
