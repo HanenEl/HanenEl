@@ -1,14 +1,16 @@
 # Hi I'm Haneen 👋
 
-  <a href="https://www.linkedin.com/in/haneen-el-ladam-4790b7320/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:haneenelladam@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-Contact-c14438?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/haneenelladam" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Kaggle-Portfolio-20BEFF?style=flat&logo=kaggle&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/haneen-el-ladam-4790b7320/" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/LinkedIn-Haneen%20El%20Ladam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.kaggle.com/haneenelladam" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Kaggle-haneenelladam-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+<a href="mailto:haneenelladam@gmail.com" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Gmail-haneenelladam-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 
 
 
