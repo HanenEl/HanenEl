@@ -23,30 +23,9 @@ Continuously expanding my expertise across the **data science ecosystem** to tur
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Technical Skills & Tools
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,sqlite,cpp,docker,azure,fastapi,flask,matlab,sklearn,tensorflow,anaconda&theme=light)](https://skillicons.dev)
 
-### Data Skills
-![Data_Cleaning](https://img.shields.io/badge/Data_Cleaning-FF6F00?style=for-the-badge)
-![Data_Manipulation](https://img.shields.io/badge/Data_Manipulation-1976D2?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-673AB7?style=for-the-badge)
-![Feature_Engineering](https://img.shields.io/badge/Feature_Engineering-8E24AA?style=for-the-badge)
-![EDA](https://img.shields.io/badge/EDA-673AB7?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
-![Power_BI](https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
-
-### Machine Learning & AI
-![Machine_Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-![Deep_Learning](https://img.shields.io/badge/Deep_Learning-8E24AA?style=for-the-badge)
-![Statistical_Modeling](https://img.shields.io/badge/Statistical_Modeling-0097A7?style=for-the-badge)
-![Predictive_Modeling](https://img.shields.io/badge/Predictive_Modeling-1976D2?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/MLOps-673AB7?style=for-the-badge)
-![Deployment](https://img.shields.io/badge/Deployment-00ACC1?style=for-the-badge)
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-4CAF50?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ---
 
 </table>
