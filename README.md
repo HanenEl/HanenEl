@@ -49,7 +49,7 @@ Continuously expanding my expertise across the **data science ecosystem** to tur
 ![C++](https://img.shields.io/badge/C++-4CAF50?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ---
 
-<table align="center">
+<table align="center" >
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanenEl&layout=compact&theme=github_dark" />
@@ -60,6 +60,5 @@ Continuously expanding my expertise across the **data science ecosystem** to tur
 </td>
 </tr>
 </table>
->
 
 
