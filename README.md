@@ -47,4 +47,18 @@ Continuously expanding my expertise across the **data science ecosystem** to tur
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-4CAF50?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+---
+
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanenEl&layout=compact&theme=tokyonight" />
+</td>
+
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HanenEl&theme=tokyonight" />
+</td>
+</tr>
+</table>
+
 
