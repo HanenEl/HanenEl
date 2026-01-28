@@ -23,9 +23,9 @@ Continuously expanding my expertise across the **data science ecosystem** to tur
 
 ---
 
-# 🛠 Technical Skills
+## 🛠 Technical Skills
 
-## Data Skills
+### Data Skills
 ![Data_Cleaning](https://img.shields.io/badge/Data_Cleaning-FF6F00?style=for-the-badge)
 ![Data_Manipulation](https://img.shields.io/badge/Data_Manipulation-1976D2?style=for-the-badge)
 ![Feature_Engineering](https://img.shields.io/badge/Feature_Engineering-8E24AA?style=for-the-badge)
@@ -35,7 +35,7 @@ Continuously expanding my expertise across the **data science ecosystem** to tur
 ![Power_BI](https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
 
-## Machine Learning & AI
+### Machine Learning & AI
 ![Machine_Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 ![Deep_Learning](https://img.shields.io/badge/Deep_Learning-8E24AA?style=for-the-badge)
 ![Statistical_Modeling](https://img.shields.io/badge/Statistical_Modeling-0097A7?style=for-the-badge)
@@ -43,7 +43,7 @@ Continuously expanding my expertise across the **data science ecosystem** to tur
 ![MLOps](https://img.shields.io/badge/MLOps-673AB7?style=for-the-badge)
 ![Deployment](https://img.shields.io/badge/Deployment-00ACC1?style=for-the-badge)
 
-## Programming Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
