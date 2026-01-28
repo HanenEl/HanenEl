@@ -1,6 +1,6 @@
 # Hi I'm Haneen 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Haneen%20El%20Ladam-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/haneen-el-ladam-4790b7320/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Haneen%20El%20Ladam-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/haneen-el-ladam-4790b7320/)
 [![Gmail](https://img.shields.io/badge/Gmail-haneenelladam@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:haneenelladam@gmail.com)
 
 
