@@ -1,13 +1,17 @@
 # Hi I'm Haneen 👋
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/haneen-el-ladam-4790b7320/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:haneenelladam@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-c14438?style=flat&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.kaggle.com/haneenelladam">
+    <img src="https://img.shields.io/badge/Kaggle-Portfolio-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+  </a>
 </p>
+
 
 Welcome to my profile! I'm a student, aspiring [writer](https://medium.com/@_jessicalim), part-time coder and full-time adventure seeker. I am current interning @Wealthsimple, and have previously PM'd @Autodesk, SWE'd @Microsoft, and UX&D consulted @Deloitte. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/jlim/)!
 
