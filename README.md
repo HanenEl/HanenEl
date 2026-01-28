@@ -13,8 +13,8 @@
     <img src="https://img.shields.io/badge/Kaggle-Portfolio-20BEFF?style=flat&logo=kaggle&logoColor=white" />
   </a>
 </p>
----
 
+---
 **Aspiring Data Scientist** with a keen interest in everything related to data.
 
 I have a solid foundation in **analytical thinking** and **programming**. I enjoy exploring datasets, uncovering meaningful insights, and building predictive models that support smarter decision-making. I’m constantly developing my skills and expanding my knowledge across the **data science ecosystem**, aiming to translate data into impactful, actionable outcomes.
