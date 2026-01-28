@@ -28,8 +28,8 @@ Continuously expanding my expertise across the **data science ecosystem** to tur
 ### Data Skills
 ![Data_Cleaning](https://img.shields.io/badge/Data_Cleaning-FF6F00?style=for-the-badge)
 ![Data_Manipulation](https://img.shields.io/badge/Data_Manipulation-1976D2?style=for-the-badge)
-![Feature_Engineering](https://img.shields.io/badge/Feature_Engineering-8E24AA?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-673AB7?style=for-the-badge)
+![Feature_Engineering](https://img.shields.io/badge/Feature_Engineering-8E24AA?style=for-the-badge)
 ![EDA](https://img.shields.io/badge/EDA-673AB7?style=for-the-badge)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
 ![Power_BI](https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge)
