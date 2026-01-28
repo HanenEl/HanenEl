@@ -49,14 +49,15 @@ Continuously expanding my expertise across the **data science ecosystem** to tur
 ![C++](https://img.shields.io/badge/C++-4CAF50?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ---
 
-<table align="center" >
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border:none;">
 <tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanenEl&layout=compact&theme=github_dark" />
+<td style="border:none; padding:10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanenEl&layout=compact&theme=github_dark&bg_color=00000000" />
 </td>
 
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HanenEl&theme=github_dark" />
+<td style="border:none; padding:10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=HanenEl&show_icons=true&hide_title=true&theme=github_dark&bg_color=00000000" />
 </td>
 </tr>
 </table>
