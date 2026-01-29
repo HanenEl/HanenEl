@@ -1,16 +1,20 @@
 # Hi, I'm Haneen 👋
-
 **Junior Data Scientist | Machine Learning Enthusiast**  
-
-<p>
+<p style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <a href="https://www.linkedin.com/in/haneen-el-ladam-4790b7320/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:haneenelladam@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Email-Contact-c14438?style=flat&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://www.kaggle.com/haneenelladam" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Kaggle-Portfolio-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+  </a>
+
+  <a href="https://discord.com/users/haneen.el_42130" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=flat&logo=discord&logoColor=white" />
   </a>
 </p>
 
@@ -23,7 +27,7 @@ Continuously expanding my expertise across the **data science ecosystem** to tur
 
 ---
 
-## 🛠 Technical Skills & Tools
+## 🛠 Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,sqlite,cpp,docker,azure,fastapi,flask,matlab,sklearn,tensorflow,anaconda&theme=light)](https://skillicons.dev)
 
 ---
