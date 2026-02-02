@@ -16,6 +16,10 @@
   <a href="https://discord.com/users/haneen.el_42130" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=flat&logo=discord&logoColor=white" />
   </a>
+  <a href="https://t.me/Haneen_Elladam" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat&logo=telegram&logoColor=white" />
+  </a>
+
 </p>
 
 ---
